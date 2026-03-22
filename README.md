@@ -46,4 +46,4 @@ This project demonstrates:
 
 ---
 
-Author: Stjepan Velcic
+Author: Stjepan Velc
